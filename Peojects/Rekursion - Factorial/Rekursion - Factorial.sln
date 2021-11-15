@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rekursion - Factorial", "Rekursion - Factorial\Rekursion - Factorial.csproj", "{4B9CF363-E7DF-47C6-8DC5-C1D8C54A4237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B9CF363-E7DF-47C6-8DC5-C1D8C54A4237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B9CF363-E7DF-47C6-8DC5-C1D8C54A4237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B9CF363-E7DF-47C6-8DC5-C1D8C54A4237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B9CF363-E7DF-47C6-8DC5-C1D8C54A4237}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3F07B29-7AB5-4CED-A39A-4CEF066FCF25}
+	EndGlobalSection
+EndGlobal
