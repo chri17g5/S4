@@ -46,9 +46,8 @@ namespace Rekrusion___Fibonacci
         static void WriteFibonacci(int count)
         {
             if (count > 1)
-            {
                 WriteFibonacci(count - 1);
-            }
+
             Console.WriteLine(Fibonacci(count));
         }
     }
