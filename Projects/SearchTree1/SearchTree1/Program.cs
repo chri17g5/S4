@@ -6,6 +6,11 @@ namespace SearchTree1
     {
         static void Main(string[] args)
         {
+            while (true)
+            {
+
+            }
+
             SearchTree tree = new SearchTree();
             int[] val = { 11, 18, 15, 19, 13, 17, 13, 16 };
 
