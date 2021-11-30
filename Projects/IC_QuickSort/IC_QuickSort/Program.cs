@@ -47,7 +47,7 @@ namespace IC_QuickSort
                 int right = end;
 
                 //Swap(left, right, values);
-                while (left < right)
+                while (left <= right)
                 {
                     //  If left value is less than pivot check the next left item
                     if (values[left].CompareTo(pivot) < 0)
@@ -68,7 +68,7 @@ namespace IC_QuickSort
                     }
                 }
 
-                QSort(start, left - 1);
+                QSort(start, right);
                 QSort(left, end);
             }
 
