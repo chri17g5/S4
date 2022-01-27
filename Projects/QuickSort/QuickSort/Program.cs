@@ -40,7 +40,6 @@ namespace QuickSort
                 if (end - start <= 0)
                 {
                     return;
-
                 }
 
                 int pivot = values[start];
